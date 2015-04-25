@@ -1,0 +1,1 @@
+Nelder-Mead is an algorithm that I have used on many occasions over the years. It is a good general purpose gradient descent algorithm for optimizing non-linear multivariate equations, and does not require differentiability. I couldn't find a free C# implementation, so I wrote one.
